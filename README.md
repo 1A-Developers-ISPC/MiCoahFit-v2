@@ -8,7 +8,7 @@
 </br>
 </br>
 
-## 💡 **Breve Descripción de la Idea**
+## 💡 **Breve Descripción del proyecto**
 
 **MiCoachFit** es una aplicación web innovadora diseñada para simplificar la gestión de clases grupales para entrenadores personales. El objetivo se centra en brindar a los coaches una herramienta intuitiva que les permita organizar sus horarios, controlar la capacidad de sus clases y ofrecer a sus clientes una experiencia de reserva de turnos fluida y sencilla.
 
@@ -49,40 +49,6 @@ Las funcionalidades se centrarán principalmente en las necesidades del entrenad
   - Mensajes de notificación o alerta para dar aviso de eventualidades (clases suspendidas, promociones, otros)
 
   </br>
-
-## 🎯 Usuarios
-
-* **Usuarios Primarios:** Entrenadores personales que ofrecen clases grupales
-(En gimnasios, Estudios propios, Aire libre, Etc.) y que buscan limitar
-el numero de participante por clases para un mejor seguimiento.
-
-* **Usuarios Secundarios:** Personas que asisten a la clases y reservaran sus
-turnos a través de la plataforma/app.
-
-</br>
-
-## **Perfil del Entrenador:**
-
-- Configuración de su información personal y profesional.
-- Posibilidad de personalizar la presentación de sus clases.
-
-</br>
-
-## 📈 **Funcionalidades Futuras**
-
-En próximas instancias de desarrollo y escalado de la aplicacion, se podrian expandir las funcionalidades incluyendo:
-
-* Estadisticas de asistencia: Para que el entrenador pueda analizar la asistencia de sus clases
-
-* Integración de Pagos: Para que los alumnos puedan pagar las clases directamente a través de la plataforma 
-
-* Integración mensajería de difusión:Envio de mensajes a grupos de alumnos de manera simultánea 
-
-* Servicios asincrónicos: Sección para atender a alumnos de manera virtual
-
-</br>
-</br>
-</br>
 
 ## 🎯 Usuarios
 
