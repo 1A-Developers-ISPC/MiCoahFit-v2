@@ -2,7 +2,7 @@
 </br>
 
 <div align=center>
-<img src="/img/logo-MiCoachFit/logo-MiCoachFit-color.png" alt="Logo MiCoachFit" width="400">
+<img src="/img/logo-micoachfit/logo-colorMiCoachFit.png" alt="Logo MiCoachFit" width="400">
 </div>
 
 </br>
@@ -81,29 +81,9 @@ En próximas instancias de desarrollo y escalado de la aplicacion, se podrian ex
 * Servicios asincrónicos: Sección para atender a alumnos de manera virtual
 
 </br>
-
-</br>
-</br>
-</br>
-
-
-<div align=center>
-  <img src="/img/logo-1A-Dev/logo-blanco-1A-Dev.png" alt="Logo 1A-Developers" width="250"/>
-</div>
-
-</br>
 </br>
 </br>
 
-## 👥 Integrantes del Team
-
-Somos el grupo de trabajo **1A-Developers**, estudiantes del primer año de la Tecnicatura Superior en Desarrollo Web y Aplicaciones Móviles del Instituto Superior Politécnico Córdoba.
-
-* 👨🏽‍💻**Carlos Balbastro** - [Developer] - https://github.com/CarlosEduardoBalbastro
-* 👨🏽‍💻**Dario Bosque** - [Developer] - https://github.com/dariodev18
-* 👨🏽‍💻**Eric Heredia** - [Developer] - https://github.com/Heredia-Eric
-* 👨🏽‍💻**Maximino Moyano** - [Developer] - https://github.com/MaxgelMax
-* 👩🏽‍💻**Rocio Briz** - [Developer] - https://github.com//Anabelro94
 ## 🎯 Usuarios
 
 * **Usuarios Primarios:** Entrenadores personales que ofrecen clases grupales
@@ -134,7 +114,6 @@ En próximas instancias de desarrollo y escalado de la aplicacion, se podrian ex
 
 * Servicios asincrónicos: Sección para atender a alumnos de manera virtual
 
-</br>
 
 </br>
 </br>
@@ -142,7 +121,7 @@ En próximas instancias de desarrollo y escalado de la aplicacion, se podrian ex
 
 
 <div align=center>
-  <img src="/img/logo-1A-Dev/logo-blanco-1A-Dev.png" alt="Logo 1A-Developers" width="250"/>
+  <img src="/img/logo-1A-Dev/logo-color-1A-Dev.png" alt="Logo 1A-Developers" width="250"/>
 </div>
 
 </br>
@@ -151,7 +130,7 @@ En próximas instancias de desarrollo y escalado de la aplicacion, se podrian ex
 
 ## 👥 Integrantes del Team
 
-Somos el grupo de trabajo **1A-Developers**, estudiantes del primer año de la Tecnicatura Superior en Desarrollo Web y Aplicaciones Móviles del Instituto Superior Politécnico Córdoba.
+Somos el grupo de trabajo **1A-Developers**, estudiantes del primer año de la Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales del Instituto Superior Politécnico Córdoba.
 
 * 👨🏽‍💻**Carlos Balbastro** - [Developer] - https://github.com/CarlosEduardoBalbastro
 * 👨🏽‍💻**Dario Bosque** - [Developer] - https://github.com/dariodev18
